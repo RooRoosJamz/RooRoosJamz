@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-:man_technologist: I love solve problem and learning new things in the process
+:man_technologist: I love to solve problems and learning new things in the process
 </p>
 
 <p align="center">
