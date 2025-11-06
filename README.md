@@ -64,8 +64,6 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
 </div>
-<br/>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=RooRoosJamz&style=for-the-badge&color=blue" alt=""></p>
 
 
 
