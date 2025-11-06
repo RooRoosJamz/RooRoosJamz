@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey There, I'm Andrew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<h4 align="center"> I am a <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="25"> Full Stack Software Engineer from Los Angeles <img src="https://media.giphy.com/media/kaCPgbSJKo4xRYxGos/giphy.gif" width="75" height="15"></h4>
+<h4 align="center"> I am a <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="25"> Software Engineer from Los Angeles, California</h4>
 <p align="center">
   Connect With Me At
 </p>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-:computer: I’m currently working on a Cyber Security Trianing Tool for kids
+:computer: I’m currently working at Dual North America
 </p>
 
 <p align="center">
