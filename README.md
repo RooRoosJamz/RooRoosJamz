@@ -68,25 +68,6 @@
   <p align="center"><img src="https://komarev.com/ghpvc/?username=RooRoosJamz&style=for-the-badge&color=blue" alt=""></p>
 
 
-<h2 align="center"> 
-  :boom: My Stats :
-</h2>
-
-<div align="center">
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RooRoosJamz&theme=dark&background=000000)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RooRoosJamz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![wakatime](https://wakatime.com/badge/user/ac59d04a-13f9-4f05-9861-95f14658fe0b.svg)](https://wakatime.com/@ac59d04a-13f9-4f05-9861-95f14658fe0b)
-
-</div>
-
-
 
 <!--
 **RooRoosJamz/RooRoosJamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
